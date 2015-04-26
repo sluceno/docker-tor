@@ -1,3 +1,7 @@
+go:
+  build: ./go
+  links:
+    - privoxy
 tor:
   build: ./tor
   ports:

@@ -192,4 +192,4 @@ SocksPolicy accept *
 #PublishServerDescriptor 0
 
 SocksListenAddress 0.0.0.0
-MaxCircuitDirtiness 60
+MaxCircuitDirtiness 18
